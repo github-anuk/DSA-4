@@ -1,0 +1,4 @@
+linear-- it serches every single item in the list .
+binary - - it uses a midpoint (start +end /2) to serch the number.
+if the number is less it sets one value smaller as the end point.
+if number is greater it sets one value larger as the start point.
